@@ -1,3 +1,3 @@
 ### основная часть
 
-![alt text](image.png)
+![alt text](img/image.png)
