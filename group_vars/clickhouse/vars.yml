@@ -1,5 +1,5 @@
 ---
-clickhouse_version: "21.3.20.1-2"
+clickhouse_version: "21.10.6.2-2"
 clickhouse_packages:
   - clickhouse-client
   - clickhouse-server
