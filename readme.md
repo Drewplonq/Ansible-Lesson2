@@ -7,6 +7,11 @@
 
 ![alt text](img/image2.png)
 
+### 6
+
+![alt text](img/image2-1.png)
+![alt text](img/image2-2.png)
+
 ### 7 
 
 ![alt text](img/image3.png)
